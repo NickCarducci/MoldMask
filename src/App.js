@@ -17,8 +17,9 @@ export default function App() {
       <br />
       If you'll love the death caused by masks, you'll love our other product
       line&nbsp;<a href="https://humanharvest.info">HumanHarvest</a>
-      <br />
-      (B.1.1.7 is something to watch) or any&nbsp;
+      <br />(
+      <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e2.htm">B.1.1.7</a>
+      &nbsp;is something to watch) or any&nbsp;
       <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
         new variables after March 2021
       </a>
