@@ -14,6 +14,15 @@ export default function App() {
           moldmask
         </a>
       </h1>
+      <span
+        style={{
+          fontSize: "8px",
+          color: "rgb(20,100,255)",
+          transform: "translateY(-5px)"
+        }}
+      >
+        ween off of oxygen with fungi!
+      </span>
       <br />
       If you'll love the death caused by masks, you'll love our other product
       line&nbsp;<a href="https://humanharvest.info">HumanHarvest</a>
