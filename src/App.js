@@ -36,6 +36,12 @@ export default function App() {
           new variables after March 2021
         </a>
       </div>
+      <br />
+      Thanks, Wolfe Blitzer for sharing studies as fact without a control
+      so&nbsp;
+      <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
+        you can rely on weather systems to sell these things
+      </a>
     </div>
   );
 }
