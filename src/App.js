@@ -32,9 +32,7 @@ export default function App() {
           (B.1.1.7
         </a>
         &nbsp;is something to watch) or any&nbsp;
-        <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
-          new variables after March 2021
-        </a>
+        <a href="https://saverparty.xyz">new variables after March 2021</a>
       </div>
       <br />
       Thanks, Wolfe Blitzer for sharing studies as fact without a control
