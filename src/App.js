@@ -42,6 +42,35 @@ export default function App() {
       <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
         you can rely on weather systems to sell these things
       </a>
+      <div
+        style={{
+          backgroundColor: "white",
+          width: "50%",
+          display: "flex",
+          position: "fixed",
+          bottom: "0px",
+          right: "0px"
+        }}
+      >
+        <div style={{ margin: "10px", textAlign: "right" }}>
+          Have a real hankering for raising hell for you and your fellows? Check
+          out our always-pivoting
+          <br />
+          <a href="https://foiegras.life">FoieGras</a>
+        </div>
+        <div
+          style={{
+            border: "2px solid black",
+            width: "max-content",
+            position: "relative",
+            fontSize: "10px"
+          }}
+        >
+          TRIGGER WARNING:
+          <br />
+          animal abuse; farming:
+        </div>
+      </div>
     </div>
   );
 }
