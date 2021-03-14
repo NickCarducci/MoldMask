@@ -69,17 +69,16 @@ export default function App() {
         &nbsp;and gestation time
         <br />
         <br />
-        <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">
-          OBEY (to say lockdown are required now that someone has the PCR for
-          cold is laughable. The root cause of hostility towards Asians is
-          lockdowns and the Duke U hostility towards lockdown orders is not
-          cases of Poly-Chain Reaction to cold, it is because you do not
-          understand&nbsp;
-          <a href="https://en.wikipedia.org/wiki/Atmospheric_circulation">
-            weather systems
-          </a>
-          )
+        <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">OBEY</a>
+        &nbsp;(to say lockdown are required now that someone has the PCR for
+        cold is laughable. The root cause of hostility towards Asians is
+        lockdowns and the Duke U hostility towards lockdown orders is not cases
+        of Poly-Chain Reaction to cold, it is because you do not
+        understand&nbsp;
+        <a href="https://en.wikipedia.org/wiki/Atmospheric_circulation">
+          weather systems
         </a>
+        )
       </div>
       <div
         style={{
