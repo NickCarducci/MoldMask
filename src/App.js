@@ -54,6 +54,18 @@ export default function App() {
           to sell these things
         </div>
         <br />
+        <br />
+        epidemiologists respond with a null finding. Physicists respond with
+        a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">positive</a>
+        &nbsp;finding (heat rises/earth’s electrons pull, only oxygen exists in
+        Brownian motion). Politifact’s epidemiologist consults say virus’
+        require hosts’&nbsp;
+        <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
+          spittle/oils
+        </a>
+        &nbsp;and gestation time
+        <br />
+        <br />
         <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">OBEY</a>
         <div
           style={{
