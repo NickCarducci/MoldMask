@@ -32,7 +32,7 @@ export default function App() {
           ween off of oxygen with fungi!
         </span>
         <br />
-        If you'll love the death caused by masks, you'll love our other product
+        If you'll love the&nbsp;<a href="https://en.wikipedia.org/wiki/Joan_Hamburg">death</a>&nbsp;caused by masks, you'll love our other product
         line&nbsp;<a href="https://humanharvest.info">HumanHarvest</a>
         <br />
         <br />
