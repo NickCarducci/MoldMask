@@ -69,35 +69,45 @@ export default function App() {
         &nbsp;and gestation time
         <br />
         <br />
-        <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">OBEY</a>
+        <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">
+          OBEY (to say lockdown are required now that someone has the PCR for
+          cold is laughable. The root cause of hostility towards Asians is
+          lockdowns and the Duke U hostility towards lockdown orders is not
+          cases of Poly-Chain Reaction to cold, it is because you do not
+          understand&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Atmospheric_circulation">
+            weather systems
+          </a>
+          )
+        </a>
+      </div>
+      <div
+        style={{
+          backgroundColor: "white",
+          width: "50%",
+          display: "flex",
+          position: "fixed",
+          bottom: "0px",
+          right: "0px"
+        }}
+      >
+        <div style={{ margin: "10px", textAlign: "right" }}>
+          Have a real hankering for raising hell for you and your fellows? Check
+          out our always-pivoting
+          <br />
+          <a href="https://foiegras.life">FoieGras</a>
+        </div>
         <div
           style={{
-            backgroundColor: "white",
-            width: "50%",
-            display: "flex",
-            position: "fixed",
-            bottom: "0px",
-            right: "0px"
+            border: "2px solid black",
+            width: "max-content",
+            position: "relative",
+            fontSize: "10px"
           }}
         >
-          <div style={{ margin: "10px", textAlign: "right" }}>
-            Have a real hankering for raising hell for you and your fellows?
-            Check out our always-pivoting
-            <br />
-            <a href="https://foiegras.life">FoieGras</a>
-          </div>
-          <div
-            style={{
-              border: "2px solid black",
-              width: "max-content",
-              position: "relative",
-              fontSize: "10px"
-            }}
-          >
-            TRIGGER WARNING:
-            <br />
-            animal abuse; farming:
-          </div>
+          TRIGGER WARNING:
+          <br />
+          animal abuse; farming:
         </div>
       </div>
     </div>
