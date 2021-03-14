@@ -47,7 +47,7 @@ export default function App() {
         <br />
         <div style={{ display: "inline-block" }}>
           Thanks, Wolfe Blitzer for sharing studies as fact without a control so
-          you can rely on&nbsp;
+          us mask-sellers ignore&nbsp;
           <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
             weather systems
           </a>{" "}
@@ -57,9 +57,12 @@ export default function App() {
         <br />
         epidemiologists respond with a null finding. Physicists respond with
         a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">positive</a>
-        &nbsp;finding (heat rises/earth’s electrons pull, only oxygen exists in
-        Brownian motion). Politifact’s epidemiologist consults say virus’
-        require hosts’&nbsp;
+        &nbsp;finding (heat rises/earth’s electrons pull, only&nbsp;
+        <a href="https://www.stingraypartswasher.com/filtration-relative-particle-sizes-in-microns.html">
+          oxygen
+        </a>
+        &nbsp;exists in Brownian motion). Politifact’s epidemiologist consults
+        say virus’ require hosts’&nbsp;
         <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
           spittle/oils
         </a>
