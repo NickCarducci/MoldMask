@@ -29,20 +29,17 @@ export default function App() {
             transform: "translate(-50%,-5px)"
           }}
         >
-          ween off of oxygen with fungi!
-        </span>
-        <br />
-        If you'll love the&nbsp;<a href="https://en.wikipedia.org/wiki/Joan_Hamburg">death</a>&nbsp;caused by masks, you'll love our other product
-        line&nbsp;<a href="https://humanharvest.info">HumanHarvest</a>
-        <br />
-        <br />
-        <div style={{ display: "inline-block" }}>
+          ween off of oxygen with fungi, grow your own&nbsp;
           <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e2.htm">
             (B.1.1.7
           </a>
-          &nbsp;is something to watch) or any&nbsp;
-          <a href="https://saverparty.xyz">new variables after March 2021</a>
-        </div>
+          !
+        </span>
+        <br />
+        If you'll love the&nbsp;
+        <a href="https://en.wikipedia.org/wiki/Joan_Hamburg">death</a>
+        &nbsp;caused by masks, you'll love our other product line&nbsp;
+        <a href="https://humanharvest.info">HumanHarvest</a>
         <br />
         <br />
         <div style={{ display: "inline-block" }}>
@@ -55,19 +52,47 @@ export default function App() {
         </div>
         <br />
         <br />
-        epidemiologists respond with a null finding. Physicists respond with
-        a&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">positive</a>
-        &nbsp;finding (heat rises/earth’s electrons pull, only&nbsp;
-        <a href="https://www.stingraypartswasher.com/filtration-relative-particle-sizes-in-microns.html">
-          oxygen
-        </a>
-        &nbsp;exists in Brownian motion). Politifact’s epidemiologist consults
-        say virus’ require hosts’&nbsp;
-        <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
-          spittle/oils
-        </a>
-        &nbsp;and gestation time
-        <br />
+        <div
+          style={{
+            padding: "6px 10px",
+            borderRadius: "8px",
+            backgroundColor: "rgb(50,50,50)",
+            color: "rgb(200,200,200)"
+          }}
+        >
+          <i
+            style={{
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            SanityCheck
+          </i>
+          <br />
+          Epidemiologists respond with a null finding. Physicists respond with
+          a&nbsp;
+          <a
+            style={{ color: "rgb(150,220,255)" }}
+            href="https://pubmed.ncbi.nlm.nih.gov/17542834/"
+          >
+            positive
+          </a>
+          &nbsp;finding (heat rises/earth’s electrons pull, only&nbsp;
+          <a
+            style={{ color: "rgb(150,220,255)" }}
+            href="https://www.stingraypartswasher.com/filtration-relative-particle-sizes-in-microns.html"
+          >
+            oxygen
+          </a>
+          &nbsp;exists in Brownian motion). Politifact’s epidemiologist consults
+          say virus’ require hosts’&nbsp;
+          <a
+            style={{ color: "rgb(150,220,255)" }}
+            href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/"
+          >
+            spittle/oils
+          </a>
+          &nbsp;and gestation time
+        </div>
         <br />
         <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">OBEY</a>
         &nbsp;(to say lockdown are required now that someone has the PCR for
