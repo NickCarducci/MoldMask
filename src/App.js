@@ -53,6 +53,8 @@ export default function App() {
           </a>{" "}
           to sell these things
         </div>
+        <br />
+        <a href="https://thecritic.co.uk/face-masks-make-you-stupid/">OBEY</a>
         <div
           style={{
             backgroundColor: "white",
