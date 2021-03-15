@@ -104,6 +104,9 @@ export default function App() {
           weather systems
         </a>
         )
+        <br/>
+        <br/>
+        If the&nbsp;<a href="https://">financial-canibalism, rentier-colonialism & Bernie Sanders</a>&nbsp;didn't exist to&nbsp;<a href="https://froth.app/debt">sell us out</a>,&nbsp;the rich media deductible-philantropists would want to kill us
       </div>
       <div
         style={{
