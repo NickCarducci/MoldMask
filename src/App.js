@@ -10,6 +10,12 @@ export default function App() {
           maxWidth: "600px"
         }}
       >
+        The&nbsp;
+        <a href="https://www6.slac.stanford.edu/news/2020-12-18-scientists-get-most-realistic-view-yet-coronavirus-spike-protein-structure.aspx">
+          Virus
+        </a>
+        &nbsp;is an endangered species,
+        <br />
         <h1>
           <a
             style={{
@@ -104,9 +110,15 @@ export default function App() {
           weather systems
         </a>
         )
-        <br/>
-        <br/>
-        If the&nbsp;<a href="https://">financial-canibalism, rentier-colonialism & Bernie Sanders</a>&nbsp;didn't exist to&nbsp;<a href="https://froth.app/debt">sell us out</a>,&nbsp;the rich media deductible-philantropists would want to kill us
+        <br />
+        <br />
+        If the&nbsp;
+        <a href="https://">
+          financial-canibalism, rentier-colonialism & Bernie Sanders
+        </a>
+        &nbsp;didn't exist to&nbsp;
+        <a href="https://froth.app/debt">sell us out</a>,&nbsp;the rich media
+        deductible-philantropists would want to kill us
       </div>
       <div
         style={{
