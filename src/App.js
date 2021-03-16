@@ -14,7 +14,14 @@ export default function App() {
         <a href="https://www6.slac.stanford.edu/news/2020-12-18-scientists-get-most-realistic-view-yet-coronavirus-spike-protein-structure.aspx">
           Virus
         </a>
-        &nbsp;is an endangered species,
+        &nbsp;is an endangered species,&nbsp;
+        <a href="https://www.memorialhealthcare.org/whats-the-difference-between-covid-19-rapid-and-prc-tests/">
+          our diagnosis
+        </a>
+        &nbsp;is a&nbsp;
+        <a href="https://www.nih.gov/news-events/nih-research-matters/immune-cells-common-cold-may-recognize-sars-cov-2">
+          reaction to cold virus too
+        </a>
         <br />
         <h1>
           <a
