@@ -125,7 +125,10 @@ export default function App() {
         </a>
         &nbsp;didn't exist to&nbsp;
         <a href="https://froth.app/debt">sell us out</a>,&nbsp;the rich media
-        deductible-philantropists would want to kill us
+        deductible-philantropists would want to&nbsp;
+        <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
+          kill us
+        </a>
       </div>
       <div
         style={{
