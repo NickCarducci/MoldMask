@@ -10,6 +10,12 @@ export default function App() {
           maxWidth: "600px"
         }}
       >
+        You cannot force, ban or move people to do something not on an
+        individual basis; you're of the choice to go visit someplace or not, and
+        territories can disclude and not be a societal-free-rider if there are
+        visible symptoms, or by a non-invasive temperature check
+        <br />
+        <br />
         "No benefit of monoclonal antibodies after visiting a hospital nest,
         have to make your own with mRNA without using your own punches,&nbsp;
         <a href="https://www.nature.com/articles/cddis2016148">
