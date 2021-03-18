@@ -10,6 +10,9 @@ export default function App() {
           maxWidth: "600px"
         }}
       >
+        "Measels do not vary as much as covid with time"
+        <br />
+        <br />
         "Starting at a plateau, at a high level, then you blast off" - Dr. Fauci
         <br />
         <br />
