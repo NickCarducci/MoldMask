@@ -5,6 +5,18 @@ export default function App() {
     <div className="App">
       <div
         style={{
+          position: "fixed",
+          top: "0px",
+          left: "0px",
+          backgroundColor: "rgb(200, 230, 255)"
+        }}
+      >
+        <a style={{ color: "blue" }} href="https://billbiden.org">
+          BillBiden
+        </a>
+      </div>
+      <div
+        style={{
           textAlign: "center",
           width: "100%",
           maxWidth: "600px"
