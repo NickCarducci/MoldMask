@@ -10,6 +10,14 @@ export default function App() {
           maxWidth: "600px"
         }}
       >
+        "No benefit of monoclonal antibodies after visiting a hospital nest,
+        have to make your own with mRNA without using your own punches,&nbsp;
+        <a href="https://www.nature.com/articles/cddis2016148">
+          need to guide it
+        </a>
+        "
+        <br />
+        <br />
         "Measels do not vary as much as covid with time"
         <br />
         <br />
