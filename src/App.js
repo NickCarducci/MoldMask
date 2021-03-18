@@ -57,11 +57,12 @@ export default function App() {
         <br />
         <div style={{ display: "inline-block" }}>
           Thanks, Wolfe Blitzer for sharing studies as fact without a control so
-          us mask-sellers ignore&nbsp;
+          us mask-sellers ignore weather systems and proof that masks&nbsp;
           <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
-            weather systems
-          </a>{" "}
-          to sell these things
+            do not save lives absolutely
+          </a>
+          &nbsp; to sell these things, with only correlations that they do
+          (which can be because of age of population or intentional poisoning)
         </div>
         <br />
         <br />
