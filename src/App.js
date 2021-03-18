@@ -10,6 +10,9 @@ export default function App() {
           maxWidth: "600px"
         }}
       >
+        "Starting at a plateau, at a high level, then you blast off" - Dr. Fauci
+        <br />
+        <br />
         The&nbsp;
         <a href="https://www6.slac.stanford.edu/news/2020-12-18-scientists-get-most-realistic-view-yet-coronavirus-spike-protein-structure.aspx">
           Virus
