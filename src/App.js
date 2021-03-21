@@ -255,6 +255,11 @@ export default class App extends React.Component {
           </div>
         </div>
         <br />
+        "There is going to be catastrophe," Fauci says&nbsp;
+        <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
+          laughingly
+        </a>
+        <br />
         Vaccine. (n) - to fight or train, not teach
         <br />
         DUI. (n) - performance-detractor and driving a motor vehicle
