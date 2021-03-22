@@ -289,11 +289,22 @@ export default class App extends React.Component {
         <a href="https://www6.slac.stanford.edu/news/2020-12-18-scientists-get-most-realistic-view-yet-coronavirus-spike-protein-structure.aspx">
           Virus
         </a>
-        &nbsp;is an endangered species,&nbsp;
-        <a href="https://www.memorialhealthcare.org/whats-the-difference-between-covid-19-rapid-and-prc-tests/">
-          our diagnosis
+        &nbsp;is&nbsp;
+        <a href="https://journals.sagepub.com/doi/pdf/10.1177/000456328101800501">
+          an
         </a>
-        &nbsp;is a&nbsp;
+        &nbsp;endangered&nbsp;
+        <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
+          species
+        </a>
+        ,&nbsp;
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288344/">our</a>
+        &nbsp;
+        <a href="https://www.memorialhealthcare.org/whats-the-difference-between-covid-19-rapid-and-prc-tests/">
+          diagnosis
+        </a>
+        &nbsp;<a href="https://jvi.asm.org/content/77/16/8801">produces</a>{" "}
+        a&nbsp;
         <a href="https://www.nih.gov/news-events/nih-research-matters/immune-cells-common-cold-may-recognize-sars-cov-2">
           reaction to cold virus too
         </a>
