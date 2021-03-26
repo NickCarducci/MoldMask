@@ -280,6 +280,12 @@ export default class App extends React.Component {
         "
         <br />
         <br />
+        There is no evidence asymptomatic have virus, where vaccine would help
+        in stopping the transmission (on the skin). Only if they are symptomatic
+        (thru the skin) is vaccine useful (2 weeks after). in the case of
+        symptomatic, you can exclude from travel/business
+        <br />
+        <br />
         <div
           style={{
             padding: "6px 10px",
@@ -339,7 +345,6 @@ export default class App extends React.Component {
             &nbsp;for a human-contractable mutation?
           </h5>
         </div>
-        <br />
         <br />
         "Measels do not vary as much as covid with time"
         <br />
