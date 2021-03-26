@@ -331,10 +331,10 @@ export default class App extends React.Component {
           <br />
           <br />
           <h5>
-            The virus, if not just coincidence people dying in hospitals had the
+            The virus if, not just coincidence people dying in hospitals had the
             common virus, was actually and not just the presumed cause of death,
             killed in a way that must have a source, a person or institution
-            that pulled the trigger on its spread. China presumes the virus was
+            pulled the trigger on its spread. China presumes the virus was
             spread by the market, or was the&nbsp;
             <a
               style={{ color: "rgb(150,220,255)" }}
