@@ -272,11 +272,73 @@ export default class App extends React.Component {
         <br />
         <br />
         "No benefit of monoclonal antibodies after visiting a hospital nest,
-        have to make your own with mRNA without using your own punches,&nbsp;
+        have to make your own mRNA or a graft without using your own
+        punches,&nbsp;
         <a href="https://www.nature.com/articles/cddis2016148">
           need to guide it
         </a>
         "
+        <br />
+        <br />
+        <div
+          style={{
+            padding: "6px 10px",
+            borderRadius: "8px",
+            backgroundColor: "rgb(50,50,50)",
+            color: "rgb(200,200,200)"
+          }}
+        >
+          <h5
+            style={{
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            Free-rider exclusion without evidence more significant that 1/2000
+            for societal policy. 5m have died with this virus that has plausibly
+            been around for decades unless NIH literally made it and pulled out
+            is irrefutable admission of guilt
+          </h5>
+          <br />
+          What would be evidence if not&nbsp;
+          <a
+            style={{ color: "rgb(150,220,255)" }}
+            href="https://www.healthline.com/health-news/noninvasive-saliva-tests-for-covid-19-as-effective-as-nose-throat-swabs"
+          >
+            this
+          </a>
+          , a blood test?&nbsp;
+          <a
+            style={{ color: "rgb(150,220,255)" }}
+            href="https://www.cochrane.org/news/how-accurate-are-routine-laboratory-tests-diagnosis-covid-19"
+          >
+            Unless
+          </a>
+          &nbsp;it is 100% accurate or with visible&nbsp;<b>evidence</b>,
+          exclusion is just conjecture. If there were to be&nbsp;
+          <b>symptoms or repeatable</b>&nbsp;and able to delegate decisions to
+          the business (with warnings of policies) in business-place realm, for
+          there to be any intervention in travel, well-controlled tests of
+          logistics rather than disparate events and unexplained or invisible
+          causality would forced-vaccines ever be plausible to travel, or deaths
+          would have to be as numerous as when the virus had just been released.
+          One thing is for sure:
+          <br />
+          <br />
+          <h5>
+            The virus, if not just coincidence people dying in hospitals had the
+            common virus, was actually and not just the presumed cause of death,
+            killed in a way that must have a source, a person or institution
+            that pulled the trigger on its spread. China presumes the virus was
+            spread by the market, or was the&nbsp;
+            <a
+              style={{ color: "rgb(150,220,255)" }}
+              href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30006-9/fulltext"
+            >
+              rubicon
+            </a>
+            &nbsp;for a human-contractable mutation?
+          </h5>
+        </div>
         <br />
         <br />
         "Measels do not vary as much as covid with time"
