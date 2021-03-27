@@ -299,10 +299,13 @@ export default class App extends React.Component {
               fontFamily: '"Pacifico", sans-serif'
             }}
           >
-            Free-rider exclusion without evidence more significant that 1/2000
-            for societal policy. 5m have died with this virus that has plausibly
-            been around for decades unless NIH literally made it and pulled out
-            is irrefutable admission of guilt
+            Free-rider exclusion without evidence more significant that 1/
+            <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
+              2000
+            </a>
+            &nbsp;for societal policy. 5m have died with this virus that has
+            plausibly been around for decades unless NIH literally made it and
+            pulled out is irrefutable admission of guilt
           </h5>
           <br />
           What would be evidence if not&nbsp;
