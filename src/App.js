@@ -254,6 +254,14 @@ export default class App extends React.Component {
             : does it seep into the pores?
           </div>
         </div>
+        "80-90% of people getting covid are wearing cloth masks all the time,
+        that is dangerous," says Rand Paul. Not only is it dangerous in
+        false-assurance but the harm is in humidity not escaping, and virus
+        forming. are you not of the idea that G-d is all things and evolution
+        can happen at a cellular level that quickly? you are an opthomologist
+        sir
+        <br />
+        <br />
         <br />
         "There is going to be catastrophe," Fauci says&nbsp;
         <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
