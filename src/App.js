@@ -277,6 +277,13 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
+          "not a laboratory leak" - CNN
+          <br />
+          <br />
+          We can assume most cases are not symptomatic, since most testing is
+          because of a case
+          <br />
+          <br />
           "80-90% of people getting covid are wearing cloth masks all the time,
           that is dangerous," says Rand Paul. Not only is it dangerous in
           false-assurance but the harm is in humidity not escaping, and virus
