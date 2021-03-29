@@ -140,6 +140,8 @@ export default class App extends React.Component {
           backgroundColor: "rgb(200, 230, 255)"
         }}
       >
+        <br />
+        <br />
         <div style={{ position: "absolute" }}>
           {/*window.location.href === "https://moldmask.co/" && (
             <div
@@ -254,6 +256,17 @@ export default class App extends React.Component {
             : does it seep into the pores?
           </div>
         </div>
+        “
+        <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
+          100,000 could have been saved
+        </a>
+        ,” they were triggered by gain of function + monoclonal antibodies or
+        poisoning, masking causes the&nbsp;
+        <a href="https://irp.nih.gov/blog/post/2020/09/mold-exposure-sets-stage-for-severe-flu#:~:text=New%20IRP%20research%20has%20found,dramatically%20increasing%20the%20illness's%20severity.&text=In%20order%20to%20reproduce%2C%20the,by%20humans%20and%20other%20organisms.">
+          virus to be prolonged
+        </a>
+        <br />
+        <br />
         "80-90% of people getting covid are wearing cloth masks all the time,
         that is dangerous," says Rand Paul. Not only is it dangerous in
         false-assurance but the harm is in humidity not escaping, and virus
