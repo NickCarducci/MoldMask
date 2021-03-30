@@ -266,7 +266,17 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
-          “
+          10% of cases are symptomatic so most likely covid is not a big deal
+          <br />
+          <br />
+          <div style={{ position: "relative", width: "50%" }}>
+            <img
+              style={{ width: "100%", height: "auto" }}
+              alt="why tho"
+              src="https://www.dl.dropboxusercontent.com/s/k1mfb87z6oycksx/ImpendingDoom.png?dl=0"
+            />
+          </div>
+          <br />“
           <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
             100,000 could have been saved
           </a>
