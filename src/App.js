@@ -266,6 +266,15 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          More people joined the NRA this year than people are labeled to have
+          died of covid (should be "substantial part of death" with at least
+          half, partial derivative) if you stopped counting months ago, covid
+          exists without killing so most of those deaths are incorrect except
+          for the poisoning, no animal-to-human mutation can create that Mar2020
+          death-print is too sudden and likely bad policy (also when fixed for
+          age is negligable-altogether)
+          <br />
+          <br />
           10% of cases are symptomatic so most likely covid is not a big deal
           <br />
           <br />
