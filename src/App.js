@@ -266,6 +266,15 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          <a href="https://www.easyflowusa.com/company-tests">
+            continuously aerosolized-microorganisms in 10cubicfoot
+          </a>
+          &nbsp;chamber air&nbsp;
+          <a href="https://halosil.com/what-are-logs-and-why-do-they-matter-in-preventing-infections/#:~:text=The%20highest%20percentage%20that%20is,6%2Dlog%20kill%20rate.%E2%80%9D">
+            2LOG kill
+          </a>
+          <br />
+          <br />
           More people joined the NRA this year than people are labeled to have
           died of covid (should be "substantial part of death" with at least
           half, partial derivative) if you stopped counting months ago, covid
