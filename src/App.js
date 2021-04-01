@@ -266,6 +266,41 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          Did you change the way you were testing in 2019 October? @WHO
+          <br />
+          <br />
+          “It’s the testing”
+          <br />
+          <br />
+          If&nbsp;
+          <a href="https://cdc.gov/tb/publications/factsheets/general/ltbiandactivetb.htm">
+            asymptomatic tuberculosis
+          </a>
+          &nbsp;cannot spread from human to human (about 1/4 est to have latent
+          TB - 2 year turnaround time) + more contagious, covid asymptomatic
+          spread cannot happen as well.
+          <br />
+          Says covid deaths have mostly tuberculosis as well (ex-oldAge)
+          <br />
+          How is covid transmissible while asymptomatic; is asleep TB same as
+          asymptomatic Covid & TB? Says Latent TB cannot spead, and active can
+          only spread if talking close (not in same room or in line)
+          <br />
+          <br />
+          This guy worked at Goldman Sachs.
+          <div style={{ position: "relative", width: "50%" }}>
+            <img
+              style={{ width: "100%", height: "auto" }}
+              alt="why tho"
+              src="https://www.dl.dropboxusercontent.com/s/9uedp62h7994hpo/NJCovid2021Grant.jpeg?dl=0"
+            />
+          </div>
+          I bet if bonds were&nbsp;
+          <a href="https://billbiden.org">prosecuted as illegal</a>, the
+          treatment would be different than “grants” with strings attached.
+          Fraud in broad daylight just gets ignored #COVID19
+          <br />
+          <br />
           <a href="https://www.easyflowusa.com/company-tests">
             continuously aerosolized-microorganisms in 10cubicfoot
           </a>
