@@ -269,7 +269,11 @@ export default class App extends React.Component {
           Did you change the way you were testing in 2019 October? @WHO
           <br />
           <br />
-          “It’s the testing”
+          “It’s the&nbsp;
+          <a href="https://www.dailymail.co.uk/sciencetech/article-9426499/Scientists-evidence-toxic-chemicals-face-masks.html">
+            testing
+          </a>
+          ”
           <br />
           <br />
           If&nbsp;
