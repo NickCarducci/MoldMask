@@ -266,6 +266,15 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          Fully vaccinated people can travel in U.S. without tests or
+          quarantines, CDC says Ultimately, the guidance may do little, as
+          people are already traveling extensively nationwide.
+          <br />
+          <br />
+          It induces cold antibodies, which the virus has been claimed to
+          evade...
+          <br />
+          <br />
           ACLU @ACLU · 3h We don't oppose the principle of requiring proof of
           vaccination in certain contexts. After all, vaccination is often
           required for school enrollment and some medical or other jobs. There's
