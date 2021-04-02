@@ -266,6 +266,54 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          ACLU @ACLU · 3h We don't oppose the principle of requiring proof of
+          vaccination in certain contexts. After all, vaccination is often
+          required for school enrollment and some medical or other jobs. There's
+          no reason to believe that the existing system of proof is deeply
+          broken.
+          <br />
+          <br />
+          moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
+          There certainly are rights being forgone currently per medical
+          exclusion. Duressful exclusion is free riding, not just for race,
+          color, religion, sex and national origin. Medical force is almost
+          always null hypothesis on side-effects (modern medicine, sovereign
+          body).
+          <br />
+          <br />
+          ACLU @ACLU · 3h Replying to @ACLU Rushing to develop a vaccine
+          passport system could be bad for transparency, privacy, and user
+          control. This is precisely what we need to prevent.
+          <br />
+          <br />
+          moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
+          ‘Duress’ and ‘disclosure’ is critical to civil rights and should be
+          included in your consideration. B-cell oncogenesis of these grafts
+          call for both!
+          <br />
+          <br />
+          moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h .
+          @CDC Director says the graft which makes antibodies prevent you from
+          carrying the virus, but only the variation they originally made it
+          for? Still weigh the risk of B-cell oncogenesis @Microsoft
+          <br />
+          <br />
+          Paul Krugman @paulkrugman · 4h Morning in America! 1/ U.S. added
+          916,000 jobs in March as the recovery gained steam. The gains were the
+          biggest since August. The unemployment rate fell to 6 percent.
+          nytimes.com
+          <br />
+          <br />
+          Paul Krugman @paulkrugman · 4h I'm worried, as we all should be, about
+          rising infections as people get careless. But if vaccinations bring
+          the pandemic under control, still the most likely case, we're going to
+          be feeling pretty happy by New Year
+          <br />
+          <br />
+          moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h I
+          thought vaccinations were rising
+          <br />
+          <br />
           Did you change the way you were testing in 2019 October? @WHO
           <br />
           <br />
