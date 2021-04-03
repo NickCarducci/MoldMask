@@ -266,6 +266,11 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          "Natural Immunity from having covid before," teaches Larry Kudlow.
+          Actually it is more likely any immunity is from cold antibodies of
+          bygone virus'. Can a virus truly be made extinct
+          <br />
+          <br />
           Fully vaccinated people can travel in U.S. without tests or
           quarantines, CDC says Ultimately, the guidance may do little, as
           people are already traveling extensively nationwide.
