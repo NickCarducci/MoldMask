@@ -266,6 +266,44 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          If you do not shuffle the population before you extrapolate, you can
+          safely expect your significance to decrease to 0 #Statistics
+          <br />
+          <br />
+          Visualizing probability of getting average implies that there is an
+          identifiable majority...
+          <br />
+          <br />
+          Econometrists/statisticians/calculus/poll-scientists/detectives depend
+          on correlation in attributing factors to integrals, only based on a
+          difference other than time can a unit-scalable-integral be created,
+          otherwise it is a variable without an integral with measures
+          time*sample
+          <br />
+          <br />
+          Add debugging front-end code up the parent to that list of how science
+          is rationality, but adhered to, which is based on logic and witness.
+          Sort of a muddying-word science is
+          <br />
+          <br />
+          If the axis of a population ordered by home sale price, would dividing
+          each average-percentile by its sample size be enough to find the
+          median? Yes.
+          <br />
+          <br />
+          So, to assign causation of debt/cash, cash/people, income/employment
+          or hoursWorked/person on home prices, I have to use the median of each
+          variable-integrally, and never of “Expected-Sum.”
+          <br />
+          <br />
+          What logistical proof do you have that masking is not a&nbsp;
+          <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">false positive</a>
+          ,&nbsp;
+          <a href="https://www.google.com/search?q=null+hypothesis">
+            null hypothesis
+          </a>
+          <br />
+          <br />
           "Natural Immunity from having covid before," teaches Larry Kudlow.
           Actually it is more likely any immunity is from cold antibodies of
           bygone virus'. Can a virus truly be made extinct
