@@ -266,6 +266,9 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          Mask the mutating-vaxxers &bull; froth.app
+          <br />
+          <br />
           If you do not shuffle the population before you extrapolate, you can
           safely expect your significance to decrease to 0 #Statistics
           <br />
