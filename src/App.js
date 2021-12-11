@@ -283,6 +283,126 @@ export default class App extends React.Component {
             humanharvest.info
           </a>
           <h1>heat/(density) rises</h1>
+          <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
+            engineer says masks stop spittle
+          </a>
+          , but
+          <div style={{ display: "flex", margin: "10px" }}>
+            <table style={{ border: "1px solid" }}>
+              <thead>
+                <tr>
+                  <th>action</th>
+                  <th>fall</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>sneeze</td>
+                  <td>6m</td>
+                </tr>
+                <tr>
+                  <td>cough</td>
+                  <td>2m</td>
+                </tr>
+                <tr>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/#:~:text=Practical">
+                    <td>breathe</td>
+                  </a>
+                  <td>{"<"}1m</td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+            "Scientists can only speculate because dna is injected, in an
+            instant."
+            <br />
+            <br />
+            Scientist: "Before [cells] inject dna, they don't have a channel,
+            after they inject dna they have the channel,"
+            <br />
+            <iframe
+              style={{
+                width: "200px"
+              }}
+              src="https://www.youtube.com/embed/Weqb9KrQ-TU"
+              title="https://www.youtube.com/watch?v=Weqb9KrQ-TU&t=21s"
+            ></iframe>
+          </div>
+          <div
+            style={{
+              overflow: "hidden",
+              width: "100%",
+              maxWidth: "500px",
+              height: "400px",
+              maxHeight: "50vw"
+            }}
+          >
+            <img
+              style={{
+                transform: "translateY(-10vw)",
+                width: "100%",
+                maxWidth: "500px"
+              }}
+              alt="cartoon vivo insemination"
+              src="https://www.dl.dropboxusercontent.com/s/2jmslkl1zf0lg3s/virus%20frontiers%20young%20minds.jpeg?dl=0"
+            />
+          </div>
+          <br />
+          and&nbsp;
+          <a href="https://www.google.com/search?q=nucleoside+analogues+virus+electron+microscope+mitosis+replication">
+            electron microscope only with bacteria+snapshot+mitosis
+          </a>
+          , to which&nbsp;
+          <a href="https://www.cdc.gov/flu/weekly/overview.htm#:~:text=5.%20Mortality%20Surveillance">
+            prevalence
+          </a>
+          &nbsp;does not cause, make.&nbsp;
+          <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
+            For virus
+          </a>
+          , it is &nbsp;
+          <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
+            bacterially
+          </a>
+          -
+          <a href="https://www.fda.gov/media/144245/download#page=42">
+            prevalent
+          </a>
+          &nbsp;as a byproduct and&nbsp;
+          <a href="https://www.cmu.edu/common-cold-project/">
+            warning-mechanism
+          </a>
+          , of debris de-clotting operations and bacterial infection, as we know
+          it "requires cell to replicate," as its only&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Protistology">taxonomy</a>, and
+          such would be the order of innovation (evolution, in this case) that
+          creates the tech stack in the end of the
+          industrial-[design,discovery,maintainless-utility]-
+          <a href="https://www.sparknotes.com/biology/cellreproduction/cellcycle/section2/">
+            cycle
+          </a>
+          .&nbsp;
+          <a href="https://www.cdc.gov/vaccines/acip/recs/grade/covid-19-moderna-vaccine.html#:~:text=cSeven%20serious">
+            mRNA-sporing-graft
+          </a>
+          &nbsp;debris-
+          <a href="https://www.google.com/search?q=b+cell+dysregulation+oncogensesis">
+            excess
+          </a>
+          &nbsp;antibody b-cell&nbsp;
+          <a href="https://www.fda.gov/media/144452/download#page=60">
+            dysregulation
+          </a>
+          &nbsp;is&nbsp;
+          <a href="https://www.lls.org/who-we-are/covid-19-vaccines-faq-patients-and-caregivers#:~:test=Some%20people%20receiving%20a%20COVID-19%20vaccine%20have%20reported%20swollen%20lymph%20nodes">
+            expected
+          </a>
+          &nbsp;and&nbsp;
+          <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
+            evident
+          </a>
+          .
+          <br />
           <a
             style={{
               shapeOutside: "rect()",
@@ -298,6 +418,7 @@ export default class App extends React.Component {
           >
             2052.live
           </a>
+          <br />
           <button
             onClick={(e) => {
               e.stopPropagation();
