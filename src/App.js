@@ -37,6 +37,7 @@ import "./styles.css";
   }
 }*/
 export default class App extends React.Component {
+  state = {};
   /*constructor(props) {
     super(props);
     let pouch = new Pouch();
@@ -266,295 +267,339 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
-          Mask the mutating-vaxxers &bull; froth.app
-          <br />
-          <br />
-          If you do not shuffle the population before you extrapolate, you can
-          safely expect your significance to decrease to 0 #Statistics
-          <br />
-          <br />
-          Visualizing probability of getting average implies that there is an
-          identifiable majority...
-          <br />
-          <br />
-          Econometrists/statisticians/calculus/poll-scientists/detectives depend
-          on correlation in attributing factors to integrals, only based on a
-          difference other than time can a unit-scalable-integral be created,
-          otherwise it is a variable without an integral with measures
-          time*sample
-          <br />
-          <br />
-          Add debugging front-end code up the parent to that list of how science
-          is rationality, but adhered to, which is based on logic and witness.
-          Sort of a muddying-word science is
-          <br />
-          <br />
-          If the axis of a population ordered by home sale price, would dividing
-          each average-percentile by its sample size be enough to find the
-          median? Yes.
-          <br />
-          <br />
-          So, to assign causation of debt/cash, cash/people, income/employment
-          or hoursWorked/person on home prices, I have to use the median of each
-          variable-integrally, and never of “Expected-Sum.”
-          <br />
-          <br />
-          What logistical proof do you have that masking is not a&nbsp;
-          <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">false positive</a>
-          ,&nbsp;
-          <a href="https://www.google.com/search?q=null+hypothesis">
-            null hypothesis
-          </a>
-          <br />
-          <br />
-          "Natural Immunity from having covid before," teaches Larry Kudlow.
-          Actually it is more likely any immunity is from cold antibodies of
-          bygone virus'. Can a virus truly be made extinct
-          <br />
-          <br />
-          Fully vaccinated people can travel in U.S. without tests or
-          quarantines, CDC says Ultimately, the guidance may do little, as
-          people are already traveling extensively nationwide.
-          <br />
-          <br />
-          It induces cold antibodies, which the virus has been claimed to
-          evade...
-          <br />
-          <br />
-          ACLU @ACLU · 3h We don't oppose the principle of requiring proof of
-          vaccination in certain contexts. After all, vaccination is often
-          required for school enrollment and some medical or other jobs. There's
-          no reason to believe that the existing system of proof is deeply
-          broken.
-          <br />
-          <br />
-          moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
-          There certainly are rights being forgone currently per medical
-          exclusion. Duressful exclusion is free riding, not just for race,
-          color, religion, sex and national origin. Medical force is almost
-          always null hypothesis on side-effects (modern medicine, sovereign
-          body).
-          <br />
-          <br />
-          ACLU @ACLU · 3h Replying to @ACLU Rushing to develop a vaccine
-          passport system could be bad for transparency, privacy, and user
-          control. This is precisely what we need to prevent.
-          <br />
-          <br />
-          moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
-          ‘Duress’ and ‘disclosure’ is critical to civil rights and should be
-          included in your consideration. B-cell oncogenesis of these grafts
-          call for both!
-          <br />
-          <br />
-          moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h .
-          @CDC Director says the graft which makes antibodies prevent you from
-          carrying the virus, but only the variation they originally made it
-          for? Still weigh the risk of B-cell oncogenesis @Microsoft
-          <br />
-          <br />
-          Paul Krugman @paulkrugman · 4h Morning in America! 1/ U.S. added
-          916,000 jobs in March as the recovery gained steam. The gains were the
-          biggest since August. The unemployment rate fell to 6 percent.
-          nytimes.com
-          <br />
-          <br />
-          Paul Krugman @paulkrugman · 4h I'm worried, as we all should be, about
-          rising infections as people get careless. But if vaccinations bring
-          the pandemic under control, still the most likely case, we're going to
-          be feeling pretty happy by New Year
-          <br />
-          <br />
-          moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h I
-          thought vaccinations were rising
-          <br />
-          <br />
-          Did you change the way you were testing in 2019 October? @WHO
-          <br />
-          <br />
-          “It’s the&nbsp;
-          <a href="https://www.dailymail.co.uk/sciencetech/article-9426499/Scientists-evidence-toxic-chemicals-face-masks.html">
-            testing
-          </a>
-          ”
-          <br />
-          <br />
-          If&nbsp;
-          <a href="https://cdc.gov/tb/publications/factsheets/general/ltbiandactivetb.htm">
-            asymptomatic tuberculosis
-          </a>
-          &nbsp;cannot spread from human to human (about 1/4 est to have latent
-          TB - 2 year turnaround time) + more contagious, covid asymptomatic
-          spread cannot happen as well.
-          <br />
-          Says covid deaths have mostly tuberculosis as well (ex-oldAge)
-          <br />
-          How is covid transmissible while asymptomatic; is asleep TB same as
-          asymptomatic Covid & TB? Says Latent TB cannot spead, and active can
-          only spread if talking close (not in same room or in line)
-          <br />
-          <br />
-          This guy worked at Goldman Sachs.
-          <div style={{ position: "relative", width: "50%" }}>
-            <img
-              style={{ width: "100%", height: "auto" }}
-              alt="why tho"
-              src="https://www.dl.dropboxusercontent.com/s/9uedp62h7994hpo/NJCovid2021Grant.jpeg?dl=0"
-            />
-          </div>
-          I bet if bonds were&nbsp;
-          <a href="https://billbiden.org">prosecuted as illegal</a>, the
-          treatment would be different than “grants” with strings attached.
-          Fraud in broad daylight just gets ignored #COVID19
-          <br />
-          <br />
-          <a href="https://www.easyflowusa.com/company-tests">
-            continuously aerosolized-microorganisms in 10cubicfoot
-          </a>
-          &nbsp;chamber air&nbsp;
-          <a href="https://halosil.com/what-are-logs-and-why-do-they-matter-in-preventing-infections/#:~:text=The%20highest%20percentage%20that%20is,6%2Dlog%20kill%20rate.%E2%80%9D">
-            2LOG kill
-          </a>
-          <br />
-          <br />
-          More people joined the NRA this year than people are labeled to have
-          died of covid (should be "substantial part of death" with at least
-          half, partial derivative) if you stopped counting months ago, covid
-          exists without killing so most of those deaths are incorrect except
-          for the poisoning, no animal-to-human mutation can create that Mar2020
-          death-print is too sudden and likely bad policy (also when fixed for
-          age is negligable-altogether)
-          <br />
-          <br />
-          10% of cases are symptomatic so most likely covid is not a big deal
-          <br />
-          <br />
-          <div style={{ position: "relative", width: "50%" }}>
-            <img
-              style={{ width: "100%", height: "auto" }}
-              alt="why tho"
-              src="https://www.dl.dropboxusercontent.com/s/k1mfb87z6oycksx/ImpendingDoom.png?dl=0"
-            />
-          </div>
-          <br />“
-          <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
-            100,000 could have been saved
-          </a>
-          ,” they were triggered by gain of function + monoclonal antibodies or
-          poisoning, masking causes the&nbsp;
-          <a href="https://irp.nih.gov/blog/post/2020/09/mold-exposure-sets-stage-for-severe-flu#:~:text=New%20IRP%20research%20has%20found,dramatically%20increasing%20the%20illness's%20severity.&text=In%20order%20to%20reproduce%2C%20the,by%20humans%20and%20other%20organisms.">
-            virus to be prolonged
-          </a>
-          <br />
-          <br />
-          "not a laboratory leak" - CNN
-          <br />
-          <br />
-          We can assume most cases are not symptomatic, since most testing is
-          because of a case
-          <br />
-          <br />
-          "80-90% of people getting covid are wearing cloth masks all the time,
-          that is dangerous," says Rand Paul. Not only is it dangerous in
-          false-assurance but the harm is in humidity not escaping, and virus
-          forming. are you not of the idea that G-d is all things and evolution
-          can happen at a cellular level that quickly? you are an opthomologist
-          sir
-          <br />
-          <br />
-          <br />
-          "There is going to be catastrophe," Fauci says&nbsp;
-          <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
-            laughingly
-          </a>
-          <br />
-          Vaccine. (n) - to fight or train, not teach
-          <br />
-          DUI. (n) - performance-detractor and driving a motor vehicle
-          <br />
-          <br />
-          You cannot force, ban or move people to do something not on an
-          individual basis; you're of the choice to go visit someplace or not,
-          and territories can disclude and not be a societal-free-rider if there
-          are visible symptoms, or by a non-invasive temperature check
-          <br />
-          <br />
-          "No benefit of monoclonal antibodies after visiting a hospital nest,
-          have to make your own mRNA or a graft without using your own
-          punches,&nbsp;
-          <a href="https://www.nature.com/articles/cddis2016148">
-            need to guide it
-          </a>
-          "
-          <br />
-          <br />
-          There is no evidence asymptomatic have virus, where vaccine would help
-          in stopping the transmission (on the skin). Only if they are
-          symptomatic (thru the skin) is vaccine useful (2 weeks after). in the
-          case of symptomatic, you can exclude from travel/business
-          <br />
-          <br />
-          <div
+          <a
             style={{
-              padding: "6px 10px",
-              borderRadius: "8px",
-              backgroundColor: "rgb(50,50,50)",
-              color: "rgb(200,200,200)"
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://humanharvest.info"
+          >
+            humanharvest.info
+          </a>
+          <h1>heat/(density) rises</h1>
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://2052.live"
+          >
+            2052.live
+          </a>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              this.setState({ c2020: !this.state.c2020 });
             }}
           >
-            <h5
+            <h3>c2020</h3>
+          </button>
+          <br />
+          <div style={{ display: this.state.c2020 ? "block" : "none" }}>
+            Mask the mutating-vaxxers &bull; froth.app
+            <br />
+            <br />
+            If you do not shuffle the population before you extrapolate, you can
+            safely expect your significance to decrease to 0 #Statistics
+            <br />
+            <br />
+            Visualizing probability of getting average implies that there is an
+            identifiable majority...
+            <br />
+            <br />
+            Econometrists/statisticians/calculus/poll-scientists/detectives
+            depend on correlation in attributing factors to integrals, only
+            based on a difference other than time can a unit-scalable-integral
+            be created, otherwise it is a variable without an integral with
+            measures time*sample
+            <br />
+            <br />
+            Add debugging front-end code up the parent to that list of how
+            science is rationality, but adhered to, which is based on logic and
+            witness. Sort of a muddying-word science is
+            <br />
+            <br />
+            If the axis of a population ordered by home sale price, would
+            dividing each average-percentile by its sample size be enough to
+            find the median? Yes.
+            <br />
+            <br />
+            So, to assign causation of debt/cash, cash/people, income/employment
+            or hoursWorked/person on home prices, I have to use the median of
+            each variable-integrally, and never of “Expected-Sum.”
+            <br />
+            <br />
+            What logistical proof do you have that masking is not a&nbsp;
+            <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
+              false positive
+            </a>
+            ,&nbsp;
+            <a href="https://www.google.com/search?q=null+hypothesis">
+              null hypothesis
+            </a>
+            <br />
+            <br />
+            "Natural Immunity from having covid before," teaches Larry Kudlow.
+            Actually it is more likely any immunity is from cold antibodies of
+            bygone virus'. Can a virus truly be made extinct
+            <br />
+            <br />
+            Fully vaccinated people can travel in U.S. without tests or
+            quarantines, CDC says Ultimately, the guidance may do little, as
+            people are already traveling extensively nationwide.
+            <br />
+            <br />
+            It induces cold antibodies, which the virus has been claimed to
+            evade...
+            <br />
+            <br />
+            ACLU @ACLU · 3h We don't oppose the principle of requiring proof of
+            vaccination in certain contexts. After all, vaccination is often
+            required for school enrollment and some medical or other jobs.
+            There's no reason to believe that the existing system of proof is
+            deeply broken.
+            <br />
+            <br />
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
+            There certainly are rights being forgone currently per medical
+            exclusion. Duressful exclusion is free riding, not just for race,
+            color, religion, sex and national origin. Medical force is almost
+            always null hypothesis on side-effects (modern medicine, sovereign
+            body).
+            <br />
+            <br />
+            ACLU @ACLU · 3h Replying to @ACLU Rushing to develop a vaccine
+            passport system could be bad for transparency, privacy, and user
+            control. This is precisely what we need to prevent.
+            <br />
+            <br />
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 3h
+            ‘Duress’ and ‘disclosure’ is critical to civil rights and should be
+            included in your consideration. B-cell oncogenesis of these grafts
+            call for both!
+            <br />
+            <br />
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h .
+            @CDC Director says the graft which makes antibodies prevent you from
+            carrying the virus, but only the variation they originally made it
+            for? Still weigh the risk of B-cell oncogenesis @Microsoft
+            <br />
+            <br />
+            Paul Krugman @paulkrugman · 4h Morning in America! 1/ U.S. added
+            916,000 jobs in March as the recovery gained steam. The gains were
+            the biggest since August. The unemployment rate fell to 6 percent.
+            nytimes.com
+            <br />
+            <br />
+            Paul Krugman @paulkrugman · 4h I'm worried, as we all should be,
+            about rising infections as people get careless. But if vaccinations
+            bring the pandemic under control, still the most likely case, we're
+            going to be feeling pretty happy by New Year
+            <br />
+            <br />
+            moldmask.co, cocaine is money, purity health dpt @SaverParty · 4h I
+            thought vaccinations were rising
+            <br />
+            <br />
+            Did you change the way you were testing in 2019 October? @WHO
+            <br />
+            <br />
+            “It’s the&nbsp;
+            <a href="https://www.dailymail.co.uk/sciencetech/article-9426499/Scientists-evidence-toxic-chemicals-face-masks.html">
+              testing
+            </a>
+            ”
+            <br />
+            <br />
+            If&nbsp;
+            <a href="https://cdc.gov/tb/publications/factsheets/general/ltbiandactivetb.htm">
+              asymptomatic tuberculosis
+            </a>
+            &nbsp;cannot spread from human to human (about 1/4 est to have
+            latent TB - 2 year turnaround time) + more contagious, covid
+            asymptomatic spread cannot happen as well.
+            <br />
+            Says covid deaths have mostly tuberculosis as well (ex-oldAge)
+            <br />
+            How is covid transmissible while asymptomatic; is asleep TB same as
+            asymptomatic Covid & TB? Says Latent TB cannot spead, and active can
+            only spread if talking close (not in same room or in line)
+            <br />
+            <br />
+            This guy worked at Goldman Sachs.
+            <div style={{ position: "relative", width: "50%" }}>
+              <img
+                style={{ width: "100%", height: "auto" }}
+                alt="why tho"
+                src="https://www.dl.dropboxusercontent.com/s/9uedp62h7994hpo/NJCovid2021Grant.jpeg?dl=0"
+              />
+            </div>
+            I bet if bonds were&nbsp;
+            <a href="https://billbiden.org">prosecuted as illegal</a>, the
+            treatment would be different than “grants” with strings attached.
+            Fraud in broad daylight just gets ignored #COVID19
+            <br />
+            <br />
+            <a href="https://www.easyflowusa.com/company-tests">
+              continuously aerosolized-microorganisms in 10cubicfoot
+            </a>
+            &nbsp;chamber air&nbsp;
+            <a href="https://halosil.com/what-are-logs-and-why-do-they-matter-in-preventing-infections/#:~:text=The%20highest%20percentage%20that%20is,6%2Dlog%20kill%20rate.%E2%80%9D">
+              2LOG kill
+            </a>
+            <br />
+            <br />
+            More people joined the NRA this year than people are labeled to have
+            died of covid (should be "substantial part of death" with at least
+            half, partial derivative) if you stopped counting months ago, covid
+            exists without killing so most of those deaths are incorrect except
+            for the poisoning, no animal-to-human mutation can create that
+            Mar2020 death-print is too sudden and likely bad policy (also when
+            fixed for age is negligable-altogether)
+            <br />
+            <br />
+            10% of cases are symptomatic so most likely covid is not a big deal
+            <br />
+            <br />
+            <div style={{ position: "relative", width: "50%" }}>
+              <img
+                style={{ width: "100%", height: "auto" }}
+                alt="why tho"
+                src="https://www.dl.dropboxusercontent.com/s/k1mfb87z6oycksx/ImpendingDoom.png?dl=0"
+              />
+            </div>
+            <br />“
+            <a href="https://pubmed.ncbi.nlm.nih.gov/17542834/">
+              100,000 could have been saved
+            </a>
+            ,” they were triggered by gain of function + monoclonal antibodies
+            or poisoning, masking causes the&nbsp;
+            <a href="https://irp.nih.gov/blog/post/2020/09/mold-exposure-sets-stage-for-severe-flu#:~:text=New%20IRP%20research%20has%20found,dramatically%20increasing%20the%20illness's%20severity.&text=In%20order%20to%20reproduce%2C%20the,by%20humans%20and%20other%20organisms.">
+              virus to be prolonged
+            </a>
+            <br />
+            <br />
+            "not a laboratory leak" - CNN
+            <br />
+            <br />
+            We can assume most cases are not symptomatic, since most testing is
+            because of a case
+            <br />
+            <br />
+            "80-90% of people getting covid are wearing cloth masks all the
+            time, that is dangerous," says Rand Paul. Not only is it dangerous
+            in false-assurance but the harm is in humidity not escaping, and
+            virus forming. are you not of the idea that G-d is all things and
+            evolution can happen at a cellular level that quickly? you are an
+            opthomologist sir
+            <br />
+            <br />
+            <br />
+            "There is going to be catastrophe," Fauci says&nbsp;
+            <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
+              laughingly
+            </a>
+            <br />
+            Vaccine. (n) - to fight or train, not teach
+            <br />
+            DUI. (n) - performance-detractor and driving a motor vehicle
+            <br />
+            <br />
+            You cannot force, ban or move people to do something not on an
+            individual basis; you're of the choice to go visit someplace or not,
+            and territories can disclude and not be a societal-free-rider if
+            there are visible symptoms, or by a non-invasive temperature check
+            <br />
+            <br />
+            "No benefit of monoclonal antibodies after visiting a hospital nest,
+            have to make your own mRNA or a graft without using your own
+            punches,&nbsp;
+            <a href="https://www.nature.com/articles/cddis2016148">
+              need to guide it
+            </a>
+            "
+            <br />
+            <br />
+            There is no evidence asymptomatic have virus, where vaccine would
+            help in stopping the transmission (on the skin). Only if they are
+            symptomatic (thru the skin) is vaccine useful (2 weeks after). in
+            the case of symptomatic, you can exclude from travel/business
+            <br />
+            <br />
+            <div
               style={{
-                fontFamily: '"Pacifico", sans-serif'
+                padding: "6px 10px",
+                borderRadius: "8px",
+                backgroundColor: "rgb(50,50,50)",
+                color: "rgb(200,200,200)"
               }}
             >
-              Free-rider exclusion without evidence more significant that 1/
-              <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
-                2000
-              </a>
-              &nbsp;for societal policy. 5m have died with this virus that has
-              plausibly been around for decades unless NIH literally made it and
-              pulled out is irrefutable admission of guilt
-            </h5>
-            <br />
-            What would be evidence if not&nbsp;
-            <a
-              style={{ color: "rgb(150,220,255)" }}
-              href="https://www.healthline.com/health-news/noninvasive-saliva-tests-for-covid-19-as-effective-as-nose-throat-swabs"
-            >
-              this
-            </a>
-            , a blood test?&nbsp;
-            <a
-              style={{ color: "rgb(150,220,255)" }}
-              href="https://www.cochrane.org/news/how-accurate-are-routine-laboratory-tests-diagnosis-covid-19"
-            >
-              Unless
-            </a>
-            &nbsp;it is 100% accurate or with visible&nbsp;<b>evidence</b>,
-            exclusion is just conjecture. If there were to be&nbsp;
-            <b>symptoms or repeatable</b>&nbsp;and able to delegate decisions to
-            the business (with warnings of policies) in business-place realm,
-            for there to be any intervention in travel, well-controlled tests of
-            logistics rather than disparate events and unexplained or invisible
-            causality would forced-vaccines ever be plausible to travel, or
-            deaths would have to be as numerous as when the virus had just been
-            released. One thing is for sure:
-            <br />
-            <br />
-            <h5>
-              The virus if, not just coincidence people dying in hospitals had
-              the common virus, was actually and not just the presumed cause of
-              death, killed in a way that must have a source, a person or
-              institution pulled the trigger on its spread. China presumes the
-              virus was spread by the market, or was the&nbsp;
+              <h5
+                style={{
+                  fontFamily: '"Pacifico", sans-serif'
+                }}
+              >
+                Free-rider exclusion without evidence more significant that 1/
+                <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
+                  2000
+                </a>
+                &nbsp;for societal policy. 5m have died with this virus that has
+                plausibly been around for decades unless NIH literally made it
+                and pulled out is irrefutable admission of guilt
+              </h5>
+              <br />
+              What would be evidence if not&nbsp;
               <a
                 style={{ color: "rgb(150,220,255)" }}
-                href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30006-9/fulltext"
+                href="https://www.healthline.com/health-news/noninvasive-saliva-tests-for-covid-19-as-effective-as-nose-throat-swabs"
               >
-                rubicon
+                this
               </a>
-              &nbsp;for a human-contractable mutation?
-            </h5>
+              , a blood test?&nbsp;
+              <a
+                style={{ color: "rgb(150,220,255)" }}
+                href="https://www.cochrane.org/news/how-accurate-are-routine-laboratory-tests-diagnosis-covid-19"
+              >
+                Unless
+              </a>
+              &nbsp;it is 100% accurate or with visible&nbsp;<b>evidence</b>,
+              exclusion is just conjecture. If there were to be&nbsp;
+              <b>symptoms or repeatable</b>&nbsp;and able to delegate decisions
+              to the business (with warnings of policies) in business-place
+              realm, for there to be any intervention in travel, well-controlled
+              tests of logistics rather than disparate events and unexplained or
+              invisible causality would forced-vaccines ever be plausible to
+              travel, or deaths would have to be as numerous as when the virus
+              had just been released. One thing is for sure:
+              <br />
+              <br />
+              <h5>
+                The virus if, not just coincidence people dying in hospitals had
+                the common virus, was actually and not just the presumed cause
+                of death, killed in a way that must have a source, a person or
+                institution pulled the trigger on its spread. China presumes the
+                virus was spread by the market, or was the&nbsp;
+                <a
+                  style={{ color: "rgb(150,220,255)" }}
+                  href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30006-9/fulltext"
+                >
+                  rubicon
+                </a>
+                &nbsp;for a human-contractable mutation?
+              </h5>
+            </div>
           </div>
           <br />
           "Measels do not vary as much as covid with time"
