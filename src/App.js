@@ -988,7 +988,7 @@ export default class App extends React.Component {
             float="left"
             title="Left vs Right (77WABC) - sundays 3-5pm Sliwa vs Hahn"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 2]}
+            fwd={this["scrollImg" + 4]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -1004,7 +1004,7 @@ export default class App extends React.Component {
             float="right"
             title="Rudy Giuliani (77WABC) - Nick Carducci, Gestation King: prevalence case as byproduct"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 1]}
+            fwd={this["scrollImg" + 3]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -1052,7 +1052,27 @@ export default class App extends React.Component {
             float="left"
             title="Ford Brewer MD bacteria notions, reasonable doubt"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 37]}
+            fwd={this["scrollImg" + 2]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          thrombosis fatality rate by asymptomatic byproduct prevalence is fraud
+          <Cable
+            style={{
+              maxWidth: "600px",
+              width: "100%"
+            }}
+            img={true}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/dz0jtibtz3kaxo3/Screen%20Shot%202021-12-16%20at%203.32.27%20PM.png?dl=0"
+            }
+            float="left"
+            title="Ford Brewer MD bacteria notions, reasonable doubt"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
