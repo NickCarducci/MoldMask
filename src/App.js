@@ -992,6 +992,22 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/ZmUozfOPquk"
+            }
+            float="left"
+            title="Left vs Right (77WABC) - sundays 3-5pm Sliwa vs Hahn"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <div
             style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
           >
@@ -1009,7 +1025,16 @@ export default class App extends React.Component {
           >
             Virus don’t know geographic boundaries, and the U.S. is the leading
             debris-maker of the dead-excrement. What, do you think it didn’t
-            require cell to reproduce at first?"
+            require cell to reproduce at first?
+          </div>
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            Importance of education of these adverse events is as it related s
+            to vaccine decision making, to specific populations, we are talking
+            about, and ultimately those are small and limited to
+            contra-indications, or null hypothesis, depending on if you think it
+            matters.“
           </div>
           <br />
           <br />
