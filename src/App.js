@@ -1036,6 +1036,26 @@ export default class App extends React.Component {
             contra-indications, or null hypothesis, depending on if you think it
             matters.“
           </div>
+          <Cable
+            style={{
+              maxWidth: "600px",
+              height: "400px",
+              width: "100%",
+              maxHeight: "50vw"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/-spTY4y8euI"
+            }
+            float="left"
+            title="Ford Brewer MD bacteria notions, reasonable doubt"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 37]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <br />
           <br />
           <br />
