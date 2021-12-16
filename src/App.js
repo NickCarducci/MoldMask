@@ -151,6 +151,8 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          fontWeight: "lighter",
+          fontFamily: "'Gluten', sans-serif",
           width: "100%",
           minHeight: "100vh",
           height: "min-content",
@@ -901,6 +903,20 @@ export default class App extends React.Component {
           <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
             kill us
           </a>
+          <br />
+          <br />
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            “Use J&J for cannot withstand mRNA risk safely, or will not, to
+            increase rates generally. Families Fighting Flu national flu
+            vaccination and education Flu and covid are co-circulating, we are
+            overwheltheg our hospital ecosystem. Many side effects from flu
+            vaccine, However, in the context of today we also need to keep in
+            mind tht vaccine equity is an issue, and other countries look to the
+            U.S. for guidance of vaccines, and donations, especially as it
+            pertains to uspto utility patents, beyond design and discovery.”
+          </div>
           <br />
           <br />
           <br />
