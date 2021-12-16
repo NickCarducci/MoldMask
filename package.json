@@ -1,13 +1,33 @@
 {
-  "name": "react",
+  "name": "moldmask",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "mold mask a 2052 live product",
+  "keywords": [
+    "bacteria",
+    "germs",
+    "microbiology",
+    "evolution",
+    "masks",
+    "covid",
+    "flu",
+    "pnemonia",
+    "influenza",
+    "mRNA-sporing-grafts",
+    "dysregulation",
+    "oncogenesis",
+    "excess antibodies",
+    "lymphoma"
+  ],
   "main": "src/index.js",
   "dependencies": {
+    "pouchdb": "7.2.2",
+    "pouchdb-upsert": "2.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-scripts": "4.0.0"
+    "react-router-dom": "5.3.0",
+    "react-scripts": "4.0.0",
+    "react-transition-group": "4.4.2",
+    "ua-parser-js": "1.0.2"
   },
   "devDependencies": {
     "typescript": "4.1.3"
