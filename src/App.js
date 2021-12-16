@@ -1,4 +1,6 @@
 import React from "react";
+import Cable from "./Dropwire";
+import { UAParser } from "ua-parser-js";
 //import PouchDB from "pouchdb";
 //import upsert from "pouchdb-upsert";
 import "./styles.css";
@@ -36,8 +38,74 @@ import "./styles.css";
     this.db.destroy();
   }
 }*/
+
 export default class App extends React.Component {
-  state = {};
+  constructor(props) {
+    super(props);
+    var parser = new UAParser();
+    const name = parser.getBrowser().name;
+    console.log(name);
+    this.state = {
+      browser: name,
+      scrollTop: 0,
+      ios: name.includes("Safari"),
+      iosNoPhoto: name.includes("Safari")
+    };
+    this.pcr = React.createRef();
+    this.walter = React.createRef();
+    this.polio = React.createRef();
+    this.claims = React.createRef();
+    this.jury = React.createRef();
+    for (let i = 0; i < 220; i++) {
+      this["scrollImg" + i] = React.createRef();
+    }
+  }
+  componentDidMount = () => {
+    window.addEventListener("resize", this.refresh);
+    window.addEventListener("scroll", this.handleScroll);
+    this.refresh(true);
+  };
+  componentWillUnmount = () => {
+    clearTimeout(this.scrollTimeout);
+    clearTimeout(this.resizeTimer);
+    clearTimeout(this.check);
+    window.removeEventListener("resize", this.refresh);
+    window.removeEventListener("scroll", this.handleScroll);
+  };
+  handleScroll = (e) => {
+    if (!this.state.offScroll) {
+      const scrollTop = window.scrollY;
+      this.setState(
+        {
+          scrolling: true,
+          scrollTop
+        },
+        () => {
+          clearTimeout(this.scrollTimeout);
+          this.scrollTimeout = setTimeout(() => {
+            this.setState({
+              scrolling: false
+            });
+          }, 900);
+        }
+      );
+    }
+  };
+  refresh = (first) => {
+    const width = this.state.ios ? window.screen.availWidth : window.innerWidth;
+    if (first || Math.abs(this.state.lastWidth - width) > 0) {
+      clearTimeout(this.resizeTimer);
+      this.resizeTimer = setTimeout(() => {
+        this.setState({
+          lastWidth: width,
+          width,
+          availableHeight: this.state.ios
+            ? window.screen.availHeight - 20
+            : window.innerHeight
+        });
+      }, 600);
+    }
+  };
   /*constructor(props) {
     super(props);
     let pouch = new Pouch();
@@ -131,9 +199,6 @@ export default class App extends React.Component {
       }
     }
   };*/
-  componentWillUnmount = () => {
-    clearTimeout(this.check);
-  };
   componentDidUpdate = (prevProps) => {
     if (this.props.pathname !== prevProps.pathname) {
       clearTimeout(this.check);
@@ -148,11 +213,17 @@ export default class App extends React.Component {
     }
   };
   render() {
+    const handleScollImgError = (e) => {
+      if (e.message) {
+        console.log(e.message);
+        this.setState({ serviceCancelingImages: true });
+      }
+    };
     return (
       <div
         style={{
           fontWeight: "lighter",
-          fontFamily: "'Gluten', sans-serif",
+          fontFamily: "'Sahitya', sans-serif",
           width: "100%",
           minHeight: "100vh",
           height: "min-content",
@@ -905,6 +976,22 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/ZmUozfOPquk"
+            }
+            float="left"
+            title="Left vs Right (77WABC) - sundays 3-5pm Sliwa vs Hahn"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <div
             style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
           >
@@ -915,7 +1002,14 @@ export default class App extends React.Component {
             vaccine, However, in the context of today we also need to keep in
             mind tht vaccine equity is an issue, and other countries look to the
             U.S. for guidance of vaccines, and donations, especially as it
-            pertains to uspto utility patents, beyond design and discovery.”
+            pertains to uspto utility patents, beyond design and discovery.
+          </div>
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            Virus don’t know geographic boundaries, and the U.S. is the leading
+            debris-maker of the dead-excrement. What, do you think it didn’t
+            require cell to reproduce at first?"
           </div>
           <br />
           <br />
