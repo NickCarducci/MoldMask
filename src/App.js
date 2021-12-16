@@ -1,6 +1,7 @@
 import React from "react";
 import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
+import Vaxx from "./vaxx";
 //import PouchDB from "pouchdb";
 //import upsert from "pouchdb-upsert";
 import "./styles.css";
@@ -1086,6 +1087,25 @@ export default class App extends React.Component {
           increase testing credential,&nbsp;
           <a href="https://humanharvest.info/testing">regime as is in Isreal</a>
           , warning mechanism control from vacuum, not with standing.
+          {this.state.lastWidth && (
+            <a
+              style={{ color: "rgb(230,230,255)" }}
+              href="https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html"
+            >
+              <Vaxx
+                lastWidth={Math.min(600, this.state.lastWidth)}
+                style={{
+                  transform: "translate(0,0)",
+                  backgroundColor: "rgba(250,250,250,0.6)",
+                  height: "200px"
+                }}
+              />
+            </a>
+          )}
+          <a href="https://www.cdc.gov/flu/weekly/overview.htm#:~:text=5.%20Mortality%20Surveillance">
+            "COVID-19 coded deaths were added to P&I to create the PIC
+            (pneumonia, influenza, and/or COVID-19) classification."
+          </a>
           <br />
           <br />
           <br />
