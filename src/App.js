@@ -1185,6 +1185,39 @@ export default class App extends React.Component {
             and the sequences to GISAID or other public databases should be done
             in a timely manner (ideally weekly)."
           </div>
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            “People who are let vaccinated are still getting the disease, and
+            passing the disease on.” Prevalence does not cause, make.
+          </div>
+          <Cable
+            style={{
+              maxWidth: "600px",
+              width: "100%"
+            }}
+            img={true}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/evvmqojcj9h24xf/Screen%20Shot%202021-12-16%20at%205.10.54%20PM.png?dl=0"
+            }
+            float="left"
+            title="Chris Salcedo (Newsmax) - Ben Carson neuro"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 8]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            "It will continue to mutate, as it attenuates, as it does diminish
+            towards its own vivo ratio-capacity," that would be if taxonomy
+            other than byproduct would make sense. Evolutionary trait, doesn’t
+            require cell to replicate, or it only comes out.
+          </div>
           <br />
           <br />
           <br />
