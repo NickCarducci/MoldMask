@@ -1132,6 +1132,42 @@ export default class App extends React.Component {
             Mechanism Artifact," to emphasize non-exclusivity of byproduct, as
             opposed to just byproduct)
           </h2>
+          <Cable
+            style={{
+              maxWidth: "600px",
+              width: "100%"
+            }}
+            img={true}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/7faqynxn1splgd6/Screen%20Shot%202021-12-16%20at%204.19.19%20PM.png?dl=0"
+            }
+            float="left"
+            title="CDC - Heather Scobie PhD, why are you concerned by what you see but not by what you do not?"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <div
+            style={{ margin: "10px", padding: "10px", borderRadius: "15px" }}
+          >
+            "When PCR-based assays are used, confirmatory sequencing of at least
+            a subset of viruses should be performed to be able to use these
+            assay results as indicators of community circulation of the variants
+            of concern. Before introducing a new testing method or a new assay,
+            a &nbsp;
+            <a href="https://www.ecdc.europa.eu/sites/default/files/documents/Methods-for-the-detection-and-identification-of-SARS-CoV-2-variants.pdf">
+              validation and verification
+            </a>
+            &nbsp;exercise should be carried out to ensure that the laboratory
+            testing system is performing adequately for the circulating viruses.
+            Reporting the results to The European Surveillance System (TESSy)
+            and the sequences to GISAID or other public databases should be done
+            in a timely manner (ideally weekly)."
+          </div>
           <br />
           <br />
           <br />
