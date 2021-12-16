@@ -962,7 +962,24 @@ export default class App extends React.Component {
           <a href="https://en.wikipedia.org/wiki/Atmospheric_circulation">
             weather systems
           </a>
-          )
+          )<br />
+          <Cable
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/ouwismq2ln4nhze/Screen%20Shot%202021-12-16%20at%204.38.22%20PM.png?dl=0"
+            }
+            float="left"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 7]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          “Many aren’t at risk of covid, certainly not young people,” prevalence
+          does not cause, make
           <br />
           <br />
           If the&nbsp;
