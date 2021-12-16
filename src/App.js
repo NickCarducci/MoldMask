@@ -131,6 +131,22 @@ export default class App extends React.Component {
       }
     }
   };*/
+  componentWillUnmount = () => {
+    clearTimeout(this.check);
+  };
+  componentDidUpdate = (prevProps) => {
+    if (this.props.pathname !== prevProps.pathname) {
+      clearTimeout(this.check);
+      const check = () => {
+        if (this.props.pathname === "/") {
+        } else if (this.props.pathname === "/n") {
+          window.scroll(0, this.polio.current.offsetTop);
+        }
+      };
+      check();
+      this.check = setTimeout(check, 4000);
+    }
+  };
   render() {
     return (
       <div
@@ -313,13 +329,17 @@ export default class App extends React.Component {
               </tbody>
             </table>
             <br />
-            "Scientists can only speculate because dna is injected, in an
-            instant."
-            <br />
-            <br />
-            Scientist: "Before [cells] inject dna, they don't have a channel,
-            after they inject dna they have the channel,"
-            <br />
+            <div>
+              "Scientists can only speculate because dna is injected, in an
+              instant."
+              <br />
+              <br />
+              Scientist: "Before [cells] inject dna, they don't have a channel,
+              after they inject dna they have the channel,"
+              <br />
+              <br />I don’t think tornadoes start on land, from the atmosphere
+              &nbsp;<a href="https://froth.app/hadley">Hadley</a>&nbsp;cells
+            </div>
             <iframe
               style={{
                 width: "200px"
