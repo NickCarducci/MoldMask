@@ -988,7 +988,7 @@ export default class App extends React.Component {
             float="left"
             title="Left vs Right (77WABC) - sundays 3-5pm Sliwa vs Hahn"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 1]}
+            fwd={this["scrollImg" + 2]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -999,10 +999,10 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.youtube.com/embed/ZmUozfOPquk"
+                : "https://www.youtube.com/embed/m-CwPBcrMYQ"
             }
-            float="left"
-            title="Left vs Right (77WABC) - sundays 3-5pm Sliwa vs Hahn"
+            float="right"
+            title="Rudy Giuliani (77WABC) - Nick Carducci, Gestation King: prevalence case as byproduct"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 1]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
