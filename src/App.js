@@ -1218,6 +1218,47 @@ export default class App extends React.Component {
             other than byproduct would make sense. Evolutionary trait, doesn’t
             require cell to replicate, or it only comes out.
           </div>
+          <h2>
+            <Cable
+              style={{
+                maxWidth: "600px",
+                width: "100%"
+              }}
+              img={true}
+              onError={handleScollImgError}
+              src={
+                this.state.noyoutube
+                  ? ""
+                  : "https://www.dl.dropboxusercontent.com/s/2xd18fdlj5d8m4o/Screen%20Shot%202021-12-17%20at%205.55.38%20PM.png?dl=0"
+              }
+              float="left"
+              title="Chris Salcedo (Newsmax) - Vince Skaggs, 'can't receive new liver without being vaxxed'"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 9]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            KANSAS CITY UNIVERSITY WILL NOT GIVE THIS MAN A LIVER TRANSPLANT
+            WITHOUT A VACCINATION. CAN THEY DO MATH?
+            <br />
+            DO YOU JUST WANT PLYABLE FOLLOWER OR GULLIBLE CLASS TO LIVE?
+          </h2>
+          seems like twitter just&nbsp;
+          <a href="https://twitter.com/nickcarducci">bans</a>
+          &nbsp;whistleblowers (that arent plants), like I know my product when
+          finished will be better than yours for politics, but I am busy. Could
+          you be that pathetic as that would be your motive of
+          <h1>
+            CENSORSHIP WITHOUT COURT-BASED-DESISTATION OF INDUSTRY VARIABLE
+            MULTIPLE OF 11/12 JURY TRUTHS, MINIMAL VIABLE PRODUCT PERMITTING,
+            FREE RIDER IMMUTABLE DESIGNATION OR COLLECTIVE NON-FLACCID BARGAIN,
+            OR CONVICTION WITH ARRESTING OFFICER EVIDENCE & REVIEW OR RELEASE,
+            WITH CONVICT INTRANET TAMPER PROOF GRID DNS AND LOGIN.GOV WITH
+            OPEN-SOURCE-LICENSURE TO SOLVE THE FAUCI DOG CRISIS, 80K/YR+ MISSING
+            CHILDREN AND CURRENCY-MONOPOLY OF SCRIPTS PHARMACY DEPOSITARY WITH
+            INGREDIENT-LISTS AND REVIEWS, NO CRAFT BEERS SECRETS, DR. FAUCI.
+            SORRY.
+          </h1>
           <br />
           <br />
           <br />
