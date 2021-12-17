@@ -1259,6 +1259,18 @@ export default class App extends React.Component {
             INGREDIENT-LISTS AND REVIEWS, NO CRAFT BEERS SECRETS, DR. FAUCI.
             SORRY.
           </h1>
+          <h2>
+            HOW ABOUT YOU ARE VACCINATED SO YOU DON’T SPREAD IT TO ANYONE ELSE.
+            WHAT I KNOW AND WHAT THE PRESIDENT BELIEVES IS THAT WE HAVE TO
+            LISTEN TO THE SCIENCE. STATISTICIANS ARE MORE SCIENCE THAN DOCTORS
+            THAT GET MALPRACTICE UNLESS THEY FOLLOW EACH OTHER
+          </h2>
+          <a href="https://www.census.gov/library/stories/2017/10/aging-boomers-deaths.html">
+            i called it
+          </a>
+          <br />
+          2020-2030 56m 65+ boomers booming/1.2m/yr+ 75+ 40m 10-year-cohort
+          normal
           <br />
           <br />
           <br />
