@@ -30,7 +30,7 @@ class Cable extends React.Component {
           if (!between && continuee) {
             //while (page.firstChild) {
             //page.removeChild(continuee);
-            continuee.remove(continuee);
+            continuee.remove();
             //while (page.firstChild) {
             //let onClick =
             //"ontouchstart" in continuee ? "touchstart" : "onclick";
@@ -63,41 +63,39 @@ class Cable extends React.Component {
     };
     return (
       <div ref={this.page}>
-        {!continuee || between ? (
-          src === "" ? (
-            <span style={{ border: "1px gray solid" }}>{title}</span>
-          ) : img ? (
-            <img
-              onError={onError}
-              alt={title}
-              style={{
-                shapeOutside: "rect()",
-                float,
-                width: "200px",
-                border: 0,
-                ...this.props.style,
-                display: src === "" ? "none" : ""
-              }}
-              ref={this.props.fwd}
-              src={src}
-            />
-          ) : (
-            <iframe
-              onError={onError}
-              title={title}
-              style={{
-                shapeOutside: "rect()",
-                float,
-                width: "200px",
-                border: 0,
-                ...this.props.style,
-                display: src === "" ? "none" : ""
-              }}
-              ref={this.props.fwd}
-              src={src}
-            />
-          )
-        ) : null}
+        {src === "" ? (
+          <span style={{ border: "1px gray solid" }}>{title}</span>
+        ) : img ? (
+          <img
+            onError={onError}
+            alt={title}
+            style={{
+              shapeOutside: "rect()",
+              float,
+              width: "200px",
+              border: 0,
+              ...this.props.style,
+              display: continuee && !between ? "none" : ""
+            }}
+            ref={this.props.fwd}
+            src={src}
+          />
+        ) : (
+          <iframe
+            onError={onError}
+            title={title}
+            style={{
+              shapeOutside: "rect()",
+              float,
+              width: "200px",
+              border: 0,
+              ...this.props.style,
+              display: continuee && !between ? "none" : ""
+            }}
+            ref={this.props.fwd}
+            src={src}
+          />
+        )}
       </div>
     );
   }
