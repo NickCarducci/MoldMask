@@ -40,10 +40,10 @@ class Cable extends React.Component {
             return;
           }
           //if (!between && continuee) return continuee.remove();
+          const children = [...page.children];
           if (
-            page.children &&
-            page.children.constructor === Array &&
-            !page.children.find((s) => s === this.state.cache)
+            children.length === 0 ||
+            children[children.length - 1] !== this.state.cache
           )
             page.appendChild(this.state.cache);
         });
