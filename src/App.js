@@ -357,6 +357,28 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          <Cable
+            style={{ width: "300px", height: "230px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://drive.google.com/file/d/1IyWj0zWC9Fh29jVDw55D5FeW9hJFsgW3/preview"
+            }
+            float="left"
+            title="American Agenda (Newsmax)- Little boy and family kicked out of an NYC restaurant"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 10]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          “Allegedly became aggressive, made threats,” legal threats, on camera?
+          Permits without jury and arresting officer evidence, truncated
+          production tax* desist is malfeasance and you must take law into your
+          own hands. *free rider immutable sewage police lawsuits.
+          <br />
+          <br />
           Imagine people claiming you are fraudulent and trying to steer people
           away from social security by giving them&nbsp;
           <a href="http://www.thealmightyguru.com/Wiki/index.php?title=Social_Security_Board_notice_hoax">
