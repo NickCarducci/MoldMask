@@ -357,6 +357,13 @@ export default class App extends React.Component {
               : does it seep into the pores?
             </div>
           </div>
+          Imagine people claiming you are fraudulent and trying to steer people
+          away from social security by giving them&nbsp;
+          <a href="http://www.thealmightyguru.com/Wiki/index.php?title=Social_Security_Board_notice_hoax">
+            all the information
+          </a>
+          ?
+          <br />
           <a
             style={{
               shapeOutside: "rect()",
