@@ -404,12 +404,18 @@ export default class App extends React.Component {
             </table>
             <br />
             <div>
+              masks are for open-body surgeries, not prolonged use nor general
+              wear, especially when
+              <br />
+              <br />
               "Scientists can only speculate because dna is injected, in an
               instant."
               <br />
               <br />
               Scientist: "Before [cells] inject dna, they don't have a channel,
-              after they inject dna they have the channel,"
+              after they inject dna they have the channel." It only comes out,
+              as bacterial-infection is filled in our excrement, is an
+              evolutionary trait.
               <br />
               <br />I don’t think tornadoes start on land, from the atmosphere
               &nbsp;<a href="https://froth.app/hadley">Hadley</a>&nbsp;cells
